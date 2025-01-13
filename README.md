@@ -1,2 +1,2 @@
-# conceitos-basicos-C
- Estudos sobre conceitos básicos de programação na linguagem C.
+# Conceitos Básicos em C
+ Estudos sobre linguagem C básica.
